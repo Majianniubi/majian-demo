@@ -10,3 +10,4 @@ hello wold
 hello wold
 majian word
 majian1wold
+majian hard
