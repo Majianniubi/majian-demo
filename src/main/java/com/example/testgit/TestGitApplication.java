@@ -9,5 +9,6 @@ public class TestGitApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestGitApplication.class, args);
         System.out.println("hello majian");
+        System.out.println("helli majian2");
     }
 }
