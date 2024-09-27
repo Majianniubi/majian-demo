@@ -12,5 +12,6 @@ public class TestGitApplication {
         System.out.println("helli majian2");
         System.out.println("hot-fix test");
         System.out.println("master test");
+        System.out.println("hot-fxi test1");
     }
 }
