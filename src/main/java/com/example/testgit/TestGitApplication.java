@@ -13,5 +13,6 @@ public class TestGitApplication {
         System.out.println("hot-fix test");
         System.out.println("master test");
         System.out.println("hot-fxi test1");
+        System.out.println("majian hello");
     }
 }
